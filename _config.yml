@@ -1,0 +1,35 @@
+# Site settings — edit these freely
+title: Jiang's Blog
+email: your-email@example.com
+description: >-
+  Personal blog. Notes on software, projects, and whatever else.
+baseurl: ""                       # empty for user site at <username>.github.io
+url: "https://jiang1997.github.io"
+
+# Author info (used by minima's footer + jekyll-seo-tag)
+author:
+  name: jiang1997
+github_username: jiang1997
+# twitter_username: yourhandle      # uncomment if you have one
+
+# Build settings
+theme: minima
+timezone: Asia/Shanghai
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+# Minima 2.5 settings
+minima:
+  skin: classic                     # try: classic, dark, auto, solarized
+  social_links:
+    - { platform: github, user_url: "https://github.com/jiang1997" }
+
+# Files Jekyll should not copy into _site
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - vendor/
+  - .github/
+  - README.md

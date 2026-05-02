@@ -1,0 +1,18 @@
+# Generated site output (regenerated on every build)
+_site/
+
+# Jekyll caches
+.sass-cache/
+.jekyll-cache/
+.jekyll-metadata
+
+# Bundler — the lockfile differs per platform; let GitHub Pages resolve its own.
+Gemfile.lock
+vendor/
+.bundle/
+
+# Editor / OS / tool state
+.vscode/
+.idea/
+.DS_Store
+.claude/
