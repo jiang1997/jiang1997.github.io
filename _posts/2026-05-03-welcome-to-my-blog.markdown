@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "How to write a new post"
-date: 2026-05-03 09:00:00 +0800
+date: 2026-05-03 00:00:00 +0800
 categories: meta
 tags: [jekyll, workflow]
 ---
