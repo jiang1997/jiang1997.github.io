@@ -7,8 +7,7 @@ baseurl: ""                       # empty for user site at <username>.github.io
 url: "https://jiang1997.github.io"
 
 # Author info (used by minima's footer + jekyll-seo-tag)
-author:
-  name: jiang1997
+author: jiang1997
 github_username: jiang1997
 # twitter_username: yourhandle      # uncomment if you have one
 
