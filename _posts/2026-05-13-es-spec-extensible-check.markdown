@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "从一次 quickjs PR 看 ES 规范：赋值时，extensible 检查发生在哪一步？"
-date: 2026-05-13 09:00:00 +0800
+date: 2026-05-13 00:00:00 +0800
 categories: programming
 tags: [javascript, ecmascript, quickjs]
 ---
